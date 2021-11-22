@@ -9,4 +9,4 @@ Changes of brach1.
 
 Changes of branch2.
 
-Changes of branch3
+New changes of branch3
