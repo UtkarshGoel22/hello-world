@@ -1,1 +1,1 @@
-This is text file A.
+This is new text file A.
